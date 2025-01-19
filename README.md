@@ -20,6 +20,9 @@ System(DBMS)**
 <p align="left">
 <a href="https://www.codechef.com/users/jahnwar19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jahnwar19" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/surya_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="surya_19" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/surya19022001/" target="blank"><img align="center" src=
+"https://media.geeksforgeeks.org/wp-content/uploads/20210915115837/gfg3-300x300.png" 
+         alt="GFG image" alt="surya19022001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
