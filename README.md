@@ -1,13 +1,18 @@
 [![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)]
 <h1 align="center">Hi 👋, I'm Surya Kant Singh</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">Currently, I work as a Software Developer at Broadridge and having more than 1 years of
+experience in a renowned product-based company. My expertise lies in building and maintaining robust
+solutions using technologies such as Java, REST APIs, Spring Boot, and JSF. In my current role, I contribute to
+projects for financial services industry such as Mutual funds, Retirement plans, GIC purchases, and more.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya962&label=Profile%20views&color=0e75b6&style=flat" alt="surya962" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **Java,Data Structure,Algorithm,HTML,CSS,Javascript and Php**
+- 💬 Ask me about **Java, Data Structures and Algorithms, Spring Boot, Object Oriented Programming(OOPs), RESTAPI, JSF, SQL, MYSQL,
+Maven, Tomcat, GIT, GITLab, Postman, Splunk, Eclipse, IntelliJ, HTML, CSS, Operating System, Database Management
+System(DBMS)**
 
 - 📫 How to reach me **surya19022001@gmail.com**
 
