@@ -15,7 +15,7 @@ Maven, Tomcat, GIT, GITLab, Postman, Splunk, Eclipse, IntelliJ, HTML, CSS, Opera
 System(DBMS)**
 
 - 📫 How to reach me **https://www.linkedin.com/in/surya-kant-singh-17a1421b1/**
-- 📫 How to reach me **8294460114**
+- 📫 How to reach me **+91 8294460114**
 - 📫 How to reach me **surya19022001@gmail.com**
 
 <h3 align="left">My Conding Profile:</h3>
