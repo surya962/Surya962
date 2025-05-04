@@ -1,6 +1,6 @@
 [![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)]
 <h1 align="center">Hi 👋, I'm Surya Kant Singh</h1>
-<h3 align="center">Software Developer at Broadridge with \textbf{1.5+ years of professional FinTech experience in a product-based environment. Skilled in building and maintaining scalable solutions using Java, Spring Boot, REST APIs, and JSF}. Contributed to key financial services projects including Mutual Funds, Retirement Plans, Transfers, and GIC Purchases.</h3>
+<h3 align="center">Software Developer at Broadridge with 1.5+ years of professional FinTech experience in a product-based environment. Skilled in building and maintaining scalable solutions using Java, Spring Boot, REST APIs, and JSF. Contributed to key financial services projects including Mutual Funds, Retirement Plans, Transfers, and GIC Purchases.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya962&label=Profile%20views&color=0e75b6&style=flat" alt="surya962" /> </p>
