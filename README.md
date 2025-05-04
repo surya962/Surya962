@@ -10,10 +10,12 @@ projects for financial services industry such as Mutual funds, Retirement plans,
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **Java, Data Structures and Algorithms, Spring Boot, Object Oriented Programming(OOPs), RESTAPI, JSF, SQL, MYSQL,
+- 💬 Ask me about **Java, Data Structures and Algorithms, Spring Boot, Spring, Object Oriented Programming(OOPs), RESTAPI, Hibernate, JSF, SQL, MYSQL,
 Maven, Tomcat, GIT, GITLab, Postman, Splunk, Eclipse, IntelliJ, HTML, CSS, Operating System, Database Management
 System(DBMS)**
 
+- 📫 How to reach me **https://www.linkedin.com/in/surya-kant-singh-17a1421b1/**
+- 📫 How to reach me **8294460114**
 - 📫 How to reach me **surya19022001@gmail.com**
 
 <h3 align="left">My Conding Profile:</h3>
